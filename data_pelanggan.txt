@@ -1,0 +1,4 @@
+3
+USR-PLG01|budi|budi123|Aktif|PLG01|Budi Santoso|budi@email.com|081234567890|-|-|L|0|0|0.00
+USR-1001|akbar|akbar|Aktif|1001|akbar|akbar@gmail.com|089657473283|kaltim|23-05-2005|L|0|0|0.00
+USR-1002|hapiz|hapiz|Aktif|1002|hapis|hapiz@gmail.com|078652425654|bantul|23-12-2002|L|0|0|0.00
